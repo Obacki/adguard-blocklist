@@ -4,5 +4,5 @@
 ||*-gcp.api.snapchat.com^
 @@||aws-proxy-gcp.api.snapchat.com^
 @@||us-east4-gcp.api.snapchat.com^
-||celebforum.to^
-||https://celebforum.to^
+||celebforum.to
+||https://celebforum.to
